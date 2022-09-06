@@ -1,4 +1,4 @@
-baseURL = "https://halloween-horror-hacking-hell.github.io/Docs/docs"
+baseURL = "https://halloween-horror-hacking-hell.github.io/Docs/"
 languageCode = "en-us"
 title = "Halloween Horror Hacking Hell"
 theme = "terminal"
