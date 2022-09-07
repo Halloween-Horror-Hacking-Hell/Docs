@@ -46,14 +46,14 @@ We're providing two different ways to attend the event. You can either joing phy
 The physical location will be in Sustrum Moor at [lenny.farm](lenny.farm). Click [here](https://goo.gl/maps/5VRgaEzkyajWLxW56) for detailled information on how to get there **Important** If you're planning to attend physically, we need you to sign up so we know how many people to expect. If you want to be there but your schedule doesn't allow for you to be there in the afternoon, you can of course join us later. Just let us know in the sign up form as well as any food intollerances. We're going to close the sign ups on the 20th of october at 11:59pm.
 
 A couple of notes:
-- Food and drinks aren't free and we don't want for anyone to stay hungry. Please help us out by sending 5€ to the following PayPal account:
+- Food and drinks aren't free and we don't want for anyone to stay hungry. Please help us out by sending 5€ to the following PayPal account and add `Halloween Horror Hacking Hell` as a message: https://paypal.me/tobiasboyer
 - The main location will be a barn. Please make sure to bring a jacket as it might get cold in the evening.
 - We'll provide a WLAN connection and ports on one of our switches. If you want a LAN connection, bring a sufficiently long LAN cable.
 - Please, especially if you're bringing multiple devices, that are in need of an outlet, bring a (safe!!) extension cable.
 - We might by able to organize a place for you to stay overnight. Please create an issue, so we can discuss the details. (See help section for more details on issues)
 
 ### Join Our Virtual Space
-Our virtual space will be open for anyone no binding sign up needed (the location can contain 30ppl. if we're somehow above the limit, we'll provide access on a first come first serve bases). All games and music will be streamed into the space. We'll be using "VRChat" as a meetup space. Click [here](https://youtu.be/WtENuEbqUXk) for a guide on how to use the software. Hint: VRChat is freely available via Steam and can be used with a VR Headset and without. 
+Our virtual space will be open for anyone no binding sign up needed (the size of the virtual location is limited. If we're somehow above the limit, we'll provide access on a first come first serve bases but will prioritize people who signed up). All games and music will be streamed into the space. We'll be using "VRChat" as a meetup space. Click [here](https://youtu.be/WtENuEbqUXk) for a guide on how to use the software. Hint: VRChat is freely available via Steam and can be used with a VR Headset and without. 
 
 **Here will be a link to the virtual space**
 
@@ -61,6 +61,9 @@ You can of course choose an avatar, that makes you happy. There are just a coupl
 - No avatars that are rated poor or worse
 - No avatars that are offensive or not safe for work in any form
 - Nothing that would be against the VRChat terms of service
+
+### Signups
+Click here to sign up: [Signup Form](https://forms.gle/SjC5aMMaB4BdKDd97)
 
 ## Hackaton
 The goal of the hackaton is to show how beautiful coding can be, by coding a visual animation in a limited environment using only limited tools.
@@ -72,12 +75,12 @@ This results in the following contraints:
 - The result should be rendered in 1920 by 1080 pixels
 - The result won't have access to any audio
 - The result can't use any external scripts or graphics
-- There will be a couple of technical rules about how to name files and alike but those will be announced in the future
+- There will be a couple of technical rules about how to name files and alike but those will be announced in the future as well as how to 
 
 In the end, every attendee can vote and the winner will take home a cool price.
 
 ## Music
-The music will follow the afforementioned themes, but those themes are quite flexible. Want to hear your favorit song? Submit it into the following Spotify playlist and we'll make sure to find a nice place for it.
+The music will follow the afforementioned themes, but those themes are quite flexible. Want to hear your favorit song? Submit it into the [Spotify playlist](https://open.spotify.com/playlist/4CohnYSDKokoqwem9O3Ylm?si=037212fba16649fd&pt=f18844e47c384f0a19353a0068ee58fe) and we'll make sure to find a nice place for it.
 
 ## Help
 In case you have any question, problem or something that should be brought to our attention, we'll urge you to create an [issue on Github](https://github.com/Halloween-Horror-Hacking-Hell/Hellish-Contributions/issues) (before the event as well as during the event). This helps us to keep everything organized and make the event an awesome experience for everyone. In case something goes wrong, please provide as many details as you can.
