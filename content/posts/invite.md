@@ -43,7 +43,7 @@ All of the following times are in CET.
 We're providing two different ways to attend the event. You can either join physically or digitally. Both spaces will be connected with a video stream. Read on to figure out how to participate.
 
 ### Join Physically On Location
-The physical location will be in Sustrum Moor at [lenny.farm](lenny.farm). Click [here](https://goo.gl/maps/5VRgaEzkyajWLxW56) for detailed information on how to get there **Important** If you're planning to attend physically, we need you to sign up so we know how many people to expect. If you want to be there but your schedule doesn't allow for you to be there in the afternoon, you can of course join us later. Just let us know in the signup form as well as any food intolerances. We're going to close the sign-ups on the 20th of October at 11:59 pm.
+The physical location will be in Sustrum Moor at [lenny.farm](lenny.farm). Click [here](https://goo.gl/maps/5VRgaEzkyajWLxW56) for detailed information on how to get there **Important** If you're planning to attend physically, we need you to sign up so we know how many people to expect. If you want to be there but your schedule doesn't allow for you to be there in the afternoon, you can of course join us later. Just let us know in the signup form as well as any food intolerances. We're going to close the [Signup Form](https://forms.gle/SjC5aMMaB4BdKDd97) on the 20th of October at 11:59 pm. 
 
 A couple of notes:
 - Food and drinks aren't free and we don't want anyone to stay hungry. Please help us out by sending 5€ to the following PayPal account and adding `Halloween Horror Hacking Hell` as a message: https://paypal.me/tobiasboyer
@@ -66,7 +66,7 @@ You can of course choose an avatar, that makes you happy. There are just a coupl
 Click here to sign up: [Signup Form](https://forms.gle/SjC5aMMaB4BdKDd97)
 
 ## Hackaton
-The goal of the hackaton is to show how beautiful coding can be, by coding a visual animation in a limited environment using only limited tools.
+The goal of the hackaton is to show how beautiful coding can be, by coding a visual animation in a limited environment with limited tools.
 
 This results in the following constraints:
 - The result can be anything that fits with the theme (which will be announced on the day)
@@ -86,3 +86,6 @@ The music will follow the aforementioned themes, but those themes are quite flex
 Don't know how to do draw that really cute cat in P5.js? Do you have a nasty bug and need second pair of eyes? You can use the [discussion section on Github](https://github.com/Halloween-Horror-Hacking-Hell/Hellish-Contributions/discussions).
 
 In case you have any question, problem, or something that should be brought to our attention, we'll urge you to create an [issue on Github](https://github.com/Halloween-Horror-Hacking-Hell/Hellish-Contributions/issues) (before the event as well as during the event). This helps us to keep everything organized and make the event an awesome experience for everyone. In case something goes wrong, please provide as many details as you can.
+
+## Blinky Lights
+Wanna bring some? Rainbow cat ears? LED Strips? Please do! Let's drown in rainbow vomit!
