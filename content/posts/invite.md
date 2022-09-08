@@ -43,10 +43,10 @@ All of the following times are in CET.
 We're providing two different ways to attend the event. You can either join physically or digitally. Both spaces will be connected with a video stream. Read on to figure out how to participate.
 
 ### Join Physically On Location
-The physical location will be in Sustrum Moor at [lenny.farm](lenny.farm). Click [here](https://goo.gl/maps/5VRgaEzkyajWLxW56) for detailed information on how to get there **Important** If you're planning to attend physically, we need you to sign up so we know how many people to expect. If you want to be there but your schedule doesn't allow for you to be there in the afternoon, you can of course join us later. Just let us know in the signup form as well as any food intolerances. We're going to close the [Signup Form](https://forms.gle/SjC5aMMaB4BdKDd97) on the 20th of October at 11:59 pm. 
+The physical location will be in Sustrum Moor at [lenny.farm](http://lenny.farm). Click [here](https://goo.gl/maps/5VRgaEzkyajWLxW56) for detailed information on how to get there **Important** If you're planning to attend physically, we need you to sign up so we know how many people to expect. If you want to be there but your schedule doesn't allow for you to be there in the afternoon, you can of course join us later. Just let us know in the signup form as well as any food intolerances. We're going to close the [Signup Form](https://forms.gle/SjC5aMMaB4BdKDd97) on the 20th of October at 11:59 pm. 
 
 A couple of notes:
-- Food and drinks aren't free and we don't want anyone to stay hungry. Please help us out by sending 5€ to the following PayPal account and adding `Halloween Horror Hacking Hell` as a message: https://paypal.me/tobiasboyer
+- Food and drinks aren't free and we don't want anyone to stay hungry. Please help us out by sending 5€ to the following PayPal account and adding `Halloween Horror Hacking Hell` as a message: https://paypal.me/tobiasboyer Every penny will be appreciated, if you want to help us out by sending a bit more but it's **completly optional!**. 
 - The main location will be a barn. Please make sure to bring a jacket as it might get cold in the evening.
 - We'll provide a WLAN connection and ports on one of our switches. If you want a LAN connection, bring a sufficiently long LAN cable.
 - Please, especially if you're bringing multiple devices, that require an outlet, bring a (safe!!) extension cable.
