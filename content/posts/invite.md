@@ -83,4 +83,6 @@ In the end, every attendee can vote and the winner will take home a cool price.
 The music will follow the aforementioned themes, but those themes are quite flexible. Want to hear your favorite song? Submit it to the [Spotify playlist](https://open.spotify.com/playlist/4CohnYSDKokoqwem9O3Ylm?si=037212fba16649fd&pt=f18844e47c384f0a19353a0068ee58fe) and we'll make sure to find a nice place for it.
 
 ## Help
+Don't know how to do draw that really cute cat in P5.js? Do you have a nasty bug and need second pair of eyes? You can use the [discussion section on Github](https://github.com/Halloween-Horror-Hacking-Hell/Hellish-Contributions/discussions).
+
 In case you have any question, problem, or something that should be brought to our attention, we'll urge you to create an [issue on Github](https://github.com/Halloween-Horror-Hacking-Hell/Hellish-Contributions/issues) (before the event as well as during the event). This helps us to keep everything organized and make the event an awesome experience for everyone. In case something goes wrong, please provide as many details as you can.
